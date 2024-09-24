@@ -1,0 +1,14 @@
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\bin\Debug\net8.0\Dicegame.exe
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\bin\Debug\net8.0\Dicegame.deps.json
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\bin\Debug\net8.0\Dicegame.runtimeconfig.json
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\bin\Debug\net8.0\Dicegame.dll
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\bin\Debug\net8.0\Dicegame.pdb
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.AssemblyInfoInputs.cache
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.AssemblyInfo.cs
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.csproj.CoreCompileInputs.cache
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.dll
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\refint\Dicegame.dll
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.pdb
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\Dicegame.genruntimeconfig.cache
+C:\Users\alfons.andreasson\Documents\Programming siht\Dicegame\Dicegame\obj\Debug\net8.0\ref\Dicegame.dll
